@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/reactdemo/static/css/main.c9861157.chunk.css",
+    "main.js": "/reactdemo/static/js/main.ce3192da.chunk.js",
+    "main.js.map": "/reactdemo/static/js/main.ce3192da.chunk.js.map",
+    "runtime-main.js": "/reactdemo/static/js/runtime-main.390808a6.js",
+    "runtime-main.js.map": "/reactdemo/static/js/runtime-main.390808a6.js.map",
+    "static/css/2.818011ed.chunk.css": "/reactdemo/static/css/2.818011ed.chunk.css",
+    "static/js/2.c506792b.chunk.js": "/reactdemo/static/js/2.c506792b.chunk.js",
+    "static/js/2.c506792b.chunk.js.map": "/reactdemo/static/js/2.c506792b.chunk.js.map",
+    "index.html": "/reactdemo/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/reactdemo/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.c9861157.chunk.css.map": "/reactdemo/static/css/main.c9861157.chunk.css.map",
+    "static/js/2.c506792b.chunk.js.LICENSE.txt": "/reactdemo/static/js/2.c506792b.chunk.js.LICENSE.txt",
+    "static/media/App Development.9f971721.jpg": "/reactdemo/static/media/App Development.9f971721.jpg",
+    "static/media/Seo.8210c23a.jpg": "/reactdemo/static/media/Seo.8210c23a.jpg",
+    "static/media/computer.8b029a65.jpg": "/reactdemo/static/media/computer.8b029a65.jpg",
+    "static/media/marketing.6b9a3332.jpg": "/reactdemo/static/media/marketing.6b9a3332.jpg",
+    "static/media/software dev.9c458f02.jpg": "/reactdemo/static/media/software dev.9c458f02.jpg",
+    "static/media/web development.16e927ce.jpg": "/reactdemo/static/media/web development.16e927ce.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.390808a6.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.c506792b.chunk.js",
+    "static/css/main.c9861157.chunk.css",
+    "static/js/main.ce3192da.chunk.js"
+  ]
+}
