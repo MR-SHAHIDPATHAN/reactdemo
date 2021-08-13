@@ -1,0 +1,83 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,400;0,600;1,500&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Mulish', sans-serif;
+    
+
+
+}
+
+.navbar-brand{
+    margin-left: 1rem !important;
+    letter-spacing: 0.5rem;  
+    font-weight: 700 !important;
+    color: #2863FA !important;
+    /* text-shadow: 0 0.2rem 0.7rem  rgb(85, 80, 80); */
+                                                           
+}
+
+.active-menu{
+    border-bottom: 2px solid  #196DE3;
+}
+
+.nav-link:hover{
+    color:#196DE3 !important;
+    font-weight: 700 !important;
+}
+
+
+/* hero section start  */
+
+
+.section_header{
+    height:85vh;
+}
+
+.header{
+    font-weight: 300;
+    font-size: 2rem;
+}
+
+strong{
+    font-weight: 800;
+    color: #28befa;
+}
+
+.getbtn{
+    text-decoration: none;
+    text-transform: capitalize;
+    border: 1px solid #2863FA ;
+    padding: 0.5rem;
+    border-radius: 1rem;
+    font-weight: 600;
+    letter-spacing: 0.1rem;
+    background-color: #fdfdfd;
+    color:#28befa;
+    
+
+    
+}
+
+.getbtn:hover{
+    background-color:#28befa ;
+    color:rgb(255, 255, 255);
+}
+
+.contact_page{
+
+    
+    height: 83vh;
+}
+
+.footer{
+    color: #000;
+    text-align: center;
+    font-size: 1rem;
+    
+    
+}
